@@ -1,9 +1,9 @@
 ### One stop destination for Developers to connect
-# Name Of the Website - NetSpire
+# Name Of the Website - NetSpire                                
 
-•	A simple social media application for coders interaction with users, posts, likes, reactions and an interface to convert python code to javascript  code using Chat GPT API.
-•	Responsive and decent UI with Sendgrid API for email acknowledgement and JWT Token for authentication. 
-•	 Cloudinary API to store Media files to cloud and mongoDb to store text database. Do not allow user to post unethical words
+•	A simple social media application for coders interaction with users, posts, likes, reactions and an interface to convert python code to javascript  code using Chat GPT API.                                                                                  
+•	Responsive and decent UI with Sendgrid API for email acknowledgement and JWT Token for authentication.                                                            
+•	 Cloudinary API to store Media files to cloud and mongoDb to store text database. Do not allow user to post unethical words                                                 
 
 ### How To Use This
 
